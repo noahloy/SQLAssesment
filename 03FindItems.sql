@@ -1,0 +1,1 @@
+SELECT items FROM list WHERE units = 'gallons';
